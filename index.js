@@ -1,4 +1,4 @@
-function ahoalgorithm(array) {
+function create(array) {
     var tree = new Map()
     array.map((value, index) => {
         for (var i = 0; i < value.length; i++) {
@@ -17,5 +17,5 @@ function ahoalgorithm(array) {
 }
 
 module.exports = {
-    ahoalgorithm
+    create
 }
