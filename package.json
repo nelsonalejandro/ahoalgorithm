@@ -1,0 +1,30 @@
+{
+  "name": "ahoalgorithm",
+  "version": "1.0.0",
+  "description": "this is a function to construct tree string to search pattern ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nelsonalejandro/ahoalgorithm.git"
+  },
+  "keywords": [
+    "kmp",
+    "Aho",
+    "Corasick",
+    "algorithm",
+    "string",
+    "search"
+  ],
+  "author": "Nelson Ramos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nelsonalejandro/ahoalgorithm/issues"
+  },
+  "homepage": "https://github.com/nelsonalejandro/ahoalgorithm#readme"
+}
