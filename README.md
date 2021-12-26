@@ -2,9 +2,9 @@
 
 # Algoritmo Aho–Corasick
 # Aho–Corasick algorithm
-Esta utilidad le ayudara a obtener un arbol donde podra encontrar patrones en la busqueda de cadenas
+Esta utilidad le ayudara a obtener un arbol donde podra encontrar palabras de manera mas optimizada.
 
-This package help you to obtain a tree and search pattern in strings
+This package help you to obtain a tree and search words in strings.
 
 ## Conocimiento 
 ## Acknowledgements
@@ -16,17 +16,17 @@ This package help you to obtain a tree and search pattern in strings
 ## Como usar  
 ## How to use
 
-El array debe estar ordenado de manera ascendiente o descendiente antes de ser procesado
+spanish
 
-- "npm i binaryoperation" (instalar paquete)
-- "const binaryoperation= require('binaryoperation')" (importar package)
-- "binaryoperation.binaryInsert([1,3,4],2)" (llamar a la funcion, este paquete contiene 4 funciones (eleminar,insertar,buscar,cortar))
+- "npm i ahoalgorithm" (instalar paquete)
+- "const ahoalgorithm= require('ahoalgorithm')" (importar package)
+- "ahoalgorithm.create(['a','aa','aaa','aaaa'])" (usa la funcion, este paquete solo contiene una funcion llamada 'create')
 
-The array to process i need to order asc or desc previus to operate
+english
 
 - "npm i ahoalgorithm" (install package)
 - "const ahoalgorithm= require('ahoalgorithm')" (import package)
-- "ahoalgorithm.create(['a','aa','aaa','aaaa'])" (use function,this package constain 1 function "create"
+- "ahoalgorithm.create(['a','aa','aaa','aaaa'])" (use function,this package constain one function "create")
 
 
 
